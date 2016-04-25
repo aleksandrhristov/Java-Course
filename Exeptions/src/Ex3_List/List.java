@@ -8,6 +8,10 @@ public class List {
   private int lenght;
   private int iterator = 0;
 
+  /**
+   * constructor for the list with 1 parameter
+   * @param lenght
+     */
   public List(int lenght) {
     this.lenght = lenght;
     list = new Object[lenght];
