@@ -13,6 +13,10 @@ public class List {
     list = new Object[lenght];
   }
 
+  /**
+   * adding new item to the list;
+   * @param obj
+     */
   public void add(Object obj){
     if (iterator < lenght) {
       list[iterator] = obj;
