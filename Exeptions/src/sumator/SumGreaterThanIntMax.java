@@ -1,4 +1,4 @@
-package Ex1_StringSumator;
+package sumator;
 
 /**
  * Created by clouway on 15.04.16.

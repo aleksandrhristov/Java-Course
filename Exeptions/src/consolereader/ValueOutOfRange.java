@@ -1,4 +1,4 @@
-package Ex2_ReadingNumbers;
+package consolereader;
 
 /**
  * Created by clouway on 15.04.16.

@@ -1,4 +1,4 @@
-package Ex2_ReadingNumbers;
+package consolereader;
 
 import java.util.Scanner;
 

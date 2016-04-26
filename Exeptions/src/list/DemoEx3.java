@@ -1,4 +1,4 @@
-package Ex3_List;
+package list;
 
 /**
  * Created by clouway on 15.04.16.

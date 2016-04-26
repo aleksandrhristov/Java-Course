@@ -1,4 +1,4 @@
-package Ex1_StringSumator;
+package sumator;
 
 public class IntegersOnlyString extends Exception {
   public IntegersOnlyString() {

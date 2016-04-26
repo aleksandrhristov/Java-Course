@@ -1,4 +1,4 @@
-package Ex1_StringSumator;
+package sumator;
 
 import java.util.Scanner;
 
