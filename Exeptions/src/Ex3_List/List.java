@@ -62,7 +62,4 @@ public class List {
         if (list[i] == obj) list[i] = null;
           if (i > 0 || i == lenght) i--;
         i++;
-      }
-    }
-  }
-}
+sdaasddasasddsaasddsadsasaasddasdasdas
